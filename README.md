@@ -31,6 +31,6 @@ web para ver más propiedades.
 
 <img src="./assets/img/pagina-principal.png" alt="página principal">
 
-La página se puede visualizar así en github pages (enlace)
+La página se puede visualizar así en github pages https://marcemorales.github.io/Desafio4-inmobiliaria/
 ------
 Marcela Morales Peralta
