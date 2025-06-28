@@ -29,7 +29,7 @@ mascotas y fumar en la propiedad.
 alquiler. Tal como se muestra en la imagen 1, enlaza el botón a su respectiva página
 web para ver más propiedades.
 
-<img src ="" alt "Imagen principal index.hmtl">
+<img src="./assets/img/pagina-principal.png" alt="página principal">
 
 La página se puede visualizar así en github pages (enlace)
 ------

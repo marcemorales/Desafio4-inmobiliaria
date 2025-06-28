@@ -32,7 +32,7 @@ const propiedades_venta = [
   },
   {
     nombre: 'Apartamento moderno en zona céntrica',
-    src: 'https://fotos.perfil.com/2018/09/21/trim/950/534/nueva-york-09212018-366965.jpg',
+    src: 'https://cdn.bioguia.com/embed/3d0fb0142790e6b90664042cbafcb1581427139/furgoneta.jpg',
     descripcion: 'Apartamento amplio cerca de todos los servicios',
     ubicacion: '456 City Street, Downtown, CA 12345',
     habitaciones: 2,
@@ -75,7 +75,7 @@ const propiedades_alquiler = [
   },
   {
     nombre: 'Apartamento familiar con patio',
-    src: 'https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YXBhcnRtZW50fGVufDB8MHwwfHx8MA%3D%3D&auto=format&fit=crop&w=700&q=60',
+    src: 'https://images.unsplash.com/photo-1669071192880-0a94316e6e09?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80',
     descripcion: 'Ideal para familias, con amplio patio',
     ubicacion: '321 Family Road, Anytown, CA 91234',
     habitaciones: 3,
